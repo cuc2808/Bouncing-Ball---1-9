@@ -53,7 +53,7 @@ void draw(){
   b = (int) random(255);
   }
 
-  println(borderRight);
+  //println(borderRight);
   
   
 }
